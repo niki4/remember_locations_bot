@@ -27,3 +27,7 @@ You're all set. Simply run the bot:
 ```bash
 python3 bot.py
 ```
+
+You can also play around with the [bot instance running](https://t.me/remember_locations_bot) on Telegram:
+
+![Bot basic usage](https://github.com/niki4/remember_locations_bot/blob/master/blob/basic_usage.png)
